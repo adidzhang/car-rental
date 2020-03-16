@@ -164,7 +164,3 @@ You can login on swagger ui by using a bearer token. So you can make requests to
 - [Vue Router](https://router.vuejs.org/)
 - [Vuetify](https://vuetifyjs.com/en/)
 - [Vue i18n](https://kazupon.github.io/vue-i18n/)
-
-## Lincense
-
-[MIT License](https://github.com/alirizaadiyahsi/Nucleus/blob/dev/LICENSE)
